@@ -16,7 +16,7 @@ public class Simulator {
 		else
 			result = CoinFlip.EDGE;
 
-		System.out.println("You called: " + call + " And the result was: " + result);
+//		System.out.println("You called: " + call + " And the result was: " + result);
 		return call == result;
 	}
 
